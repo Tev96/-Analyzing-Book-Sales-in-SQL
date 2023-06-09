@@ -1,7 +1,7 @@
 
 # Analyzing book sales in Postgresql
 
-The project involved working with a fictional bookstore database to extract valuable information. Here's a step-by-step overview of how I approached the project:
+The project involved working with a fictional bookstore database to extract valuable information. Here's a step-by-step overview of how I approached the project: 
 
 <b>Step 1: Introduction</b>
 
