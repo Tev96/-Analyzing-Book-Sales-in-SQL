@@ -3,6 +3,8 @@
 
 The project involved working with a fictional bookstore database to extract valuable information. Here's a step-by-step overview of how I approached the project: 
 
+[notebook:]()
+
 <b>Step 1: Introduction</b>
 
 The objective of the project was to utilize joins to analyze the bookstore database and uncover insights. By combining data from multiple tables, my aim was to derive meaningful information and gain a deeper understanding of the dataset.
