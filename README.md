@@ -5,6 +5,8 @@
 
 This project focuses on analyzing a fictional bookstore database to extract valuable insights. By utilizing join operations, the objective is to merge data from multiple tables and gain a comprehensive understanding of the dataset. This README provides a step-by-step overview of the project approach and the derived insights.
 
+<b>Goal:</b> The goal of this project is to analyze a fictional bookstore database using join operations and derive valuable insights. By merging data from multiple tables, the objective is to gain a comprehensive understanding of the dataset, identify customer preferences, popular book genres, and uncover patterns to inform decision-making in the bookstore management.
+
 <b>Dataset:</b>
 
 The Bookstore Database is a fictional dataset used in the project. It contains comprehensive information about books, customers, transactions, and reviews within a bookstore. The dataset enables analysis of customer preferences, popular genres, and purchasing patterns, providing valuable insights for decision-making in the bookstore management.
