@@ -1,6 +1,8 @@
 
 # Analyzing book sales in Postgresql
 
+[Notebook](notebook.ipynb)
+
 <b>Description:</b> 
 
 This project focuses on analyzing a fictional bookstore database to extract valuable insights. By utilizing join operations, the objective is to merge data from multiple tables and gain a comprehensive understanding of the dataset. This README provides a step-by-step overview of the project approach and the derived insights.
